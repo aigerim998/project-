@@ -151,4 +151,4 @@ resource "aws_route_table_association" "a3" {
 # instance_type = "t2.micro"
 # ebs_optimixed = true
 # enable_monitoring = true
-}
+#}
